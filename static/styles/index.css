@@ -1,0 +1,33 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Michroma&display=swap);
+body{
+    font-family:Michroma ;
+    background: url(../img/demon-slayer-poster-02.webp);   
+    background-size: 230vh;
+    text-decoration: none;
+}
+.navbar-brand img{
+    width: 150px;
+}
+
+.nav-link {
+    font-size: 20px;
+    display: block;
+    color:darksalmon;
+}
+.myclass{
+    margin-left:250px ;
+}
+.card{
+    background: linear-gradient(350deg, #941001 0%, #a74b00 29%, #9c3802 53%, #813a14 75%, #700505 99%);
+}
+
+.card-title,
+.card-text{
+    color:rgba(255, 255, 255, 0.781);
+}
+
+.dropdown-menu li a{
+    color: darksalmon;
+}

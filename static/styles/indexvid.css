@@ -1,0 +1,53 @@
+.bgvideo{
+    height: 80vh;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.bgvideo video{
+    height: 80vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;    
+}
+.text-video{
+    font-family: 'Rowdies', cursive;
+    color:darkorange;
+    z-index: 2;
+    font-size: 100px;
+}
+
+.text-video .b{
+    font-family: 'Rowdies', cursive;
+    color:darkorange;
+    z-index: 2;
+    font-size: 50px;
+    display: flex;
+    justify-self: center;
+}
+.effect{
+    height: 80vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 2;   
+    background-color: rgba(0, 0, 0, 0.116);
+
+}
+.footer-text{
+    display: flex;
+    color: darksalmon;
+    align-items:center;
+}
+.media-link{
+    display: flex;;
+    align-items:center;
+}
