@@ -1,1 +1,1 @@
-Baitilek.github.io/aniborsok/
+https://Baitilek.github.io/aniborsok/
